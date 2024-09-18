@@ -1,0 +1,6 @@
+#####How to run in Android Studio#####
+#1. Download .ZIP file and extract 
+#2. Open Android Studio and click File->Open, select the extract project
+#3. On the drop down, select android, then navigate to Java->com->example.anonymousgradingapp->Login
+#4. Open Login, select run on an emulated device, will not run because a new install will not have "amplify add api" and "amplify push" to initialize the backend, 
+#if you want a demo of the program running, please email: mhan4@umbc.edu or matthewhan38@gmail.com
